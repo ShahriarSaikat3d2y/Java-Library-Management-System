@@ -1,0 +1,9 @@
+Kafka on the shore;01;Haruki Murakami;Adventure;2002;4.5;50
+Norwegian Wood;02;Haruki Murakami;Slice of life;1988;4.5;50
+Kafka on the shore;03;Haruki;Adventure;2002;4.5;50
+abcd;04;aa;bb;2000;cc;50
+bb;05;aa;2000;cc;4;40
+hunter;148;td;2011;ad;4.5;50
+bleach;365;kubo;2000;action;4.3;50
+one piece;1100;oda;1999;action;5;49
+Death Note;37;idk;2005;Mystery;5;50
